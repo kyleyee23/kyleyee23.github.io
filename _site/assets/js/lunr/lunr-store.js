@@ -1,6 +1,6 @@
 var store = [{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
+        "title": "Website Launch!",
+        "excerpt":"This is the first post on my brand new website! I’ve been putting this off for a while, so I’m really glad I finally got around to it. Looking forward to figuring my way around.","categories": ["update","website"],
         "tags": [],
-        "url": "http://localhost:4000/jekyll/update/welcome-to-jekyll/",
+        "url": "http://localhost:4000/update/website/website-launch/",
         "teaser":null}]
