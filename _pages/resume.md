@@ -1,6 +1,6 @@
 ---
-layout: single
-title: Resume
+author_profile: false
+
 permalink: /resume/
 ---
 

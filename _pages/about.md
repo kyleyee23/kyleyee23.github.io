@@ -1,6 +1,4 @@
 ---
-layout: single
-title: About Kyle
 permalink: /about/
 ---
 
