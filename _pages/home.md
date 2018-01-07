@@ -8,4 +8,4 @@ permalink: /
 
 Welcome to my website! Feel free to take a look around.
 
-To reach out, you can contact me at kyle.g.yee@gmail.com (or hit the button on the left!)
+To reach out, you can contact me at kyle.g.yee@gmail.com (or hit the button under my profile!)
