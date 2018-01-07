@@ -1,3 +1,3 @@
 ---
-permalink: /home/
+permalink: /
 ---
