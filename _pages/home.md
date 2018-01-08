@@ -3,6 +3,7 @@ title: Hello
 excerpt: I'm Kyle
 header:
   overlay_image: /assets/images/Mountains.jpg
+  caption: I took this photo in Colorado while I was a research intern!
 permalink: /
 ---
 
